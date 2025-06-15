@@ -5,6 +5,7 @@
     "ng": "ng",
      "start": "set NODE_OPTIONS=--openssl-legacy-provider  && gulp buildDev && ng serve ",
  "publish": "set NODE_OPTIONS=--openssl-legacy-provider  && gulp build && ng build --prod",
+ "build:prod": "set NODE_OPTIONS=--openssl-legacy-provider && ng build --configuration production --base-href=/uu_chat_bot/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
