@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 if the code is not executed 
@@ -17,3 +18,6 @@ Run `ng build --base-href angular-chatbot` to build the project. The build artif
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+=======
+# uu_chat_bot
+>>>>>>> ee3425c415f451305418ec9381f3d2aa965920a1
